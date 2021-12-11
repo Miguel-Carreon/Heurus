@@ -8,3 +8,5 @@ crimen,francis ford coppola,1974,the godfather 2
 accion,edward zwick,2004,the last samurai
 terror,james wan,2013,the conjuring
 accion,ridley scott,2000,gladiator
+crimen,nicolas winding refn,2012,drive
+crimen,lars von trier,2018,the house that jack built
