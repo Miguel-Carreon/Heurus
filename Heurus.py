@@ -182,4 +182,5 @@ def main():
         if solucion[0] == genero_correcto and solucion[1] == director_correcto and solucion[2] == anno_correcto:
             print(F"La pelicula en la que pensaste es {solucion[3]}")
 
-main()
+if __name__ == '__main__':
+    main()
