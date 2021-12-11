@@ -1,0 +1,10 @@
+crimen,quentin tarantino,1994,pulp fiction
+crimen,martin scorsese,1990,goodfellas
+comedia,adam mckay,2004,anchorman
+terror,jennifer kent,2014,the babadook
+crimen,francis ford coppola,1972,the godfather
+crimen,martin scorsese,2019,the irishman
+crimen,francis ford coppola,1974,the godfather 2
+accion,edward zwick,2004,the last samurai
+terror,james wan,2013,the conjuring
+accion,ridley scott,2000,gladiator
